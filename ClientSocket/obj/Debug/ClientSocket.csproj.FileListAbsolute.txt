@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2015\Projects\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe
+c:\users\alex\documents\visual studio 2015\Projects\ClientSocket\ClientSocket\bin\Debug\ClientSocket.pdb
+c:\users\alex\documents\visual studio 2015\Projects\ClientSocket\ClientSocket\obj\Debug\ClientSocket.exe
+c:\users\alex\documents\visual studio 2015\Projects\ClientSocket\ClientSocket\obj\Debug\ClientSocket.pdb
+c:\users\alex\documents\visual studio 2015\Projects\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csprojResolveAssemblyReference.cache
